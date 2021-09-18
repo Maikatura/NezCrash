@@ -1,0 +1,9 @@
+G:\Endorblast\CrashTest\Nez.Portable\bin\Debug\netcoreapp3.1\Nez.deps.json
+G:\Endorblast\CrashTest\Nez.Portable\bin\Debug\netcoreapp3.1\Nez.dll
+G:\Endorblast\CrashTest\Nez.Portable\bin\Debug\netcoreapp3.1\Nez.pdb
+G:\Endorblast\CrashTest\Nez.Portable\obj\Nez.MG38\Debug\netcoreapp3.1\Nez.MG38.csprojAssemblyReference.cache
+G:\Endorblast\CrashTest\Nez.Portable\obj\Nez.MG38\Debug\netcoreapp3.1\Nez.MG38.AssemblyInfoInputs.cache
+G:\Endorblast\CrashTest\Nez.Portable\obj\Nez.MG38\Debug\netcoreapp3.1\Nez.MG38.AssemblyInfo.cs
+G:\Endorblast\CrashTest\Nez.Portable\obj\Nez.MG38\Debug\netcoreapp3.1\Nez.MG38.csproj.CoreCompileInputs.cache
+G:\Endorblast\CrashTest\Nez.Portable\obj\Nez.MG38\Debug\netcoreapp3.1\Nez.dll
+G:\Endorblast\CrashTest\Nez.Portable\obj\Nez.MG38\Debug\netcoreapp3.1\Nez.pdb
